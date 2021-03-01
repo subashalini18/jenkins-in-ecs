@@ -1,0 +1,4 @@
+version: '3.3'
+services:
+  jenkins:
+    image: subashalini/my-jenkins:latests
